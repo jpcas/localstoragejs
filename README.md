@@ -1,0 +1,1 @@
+# This small little project is to learn to use local storage with JavaScript
